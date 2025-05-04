@@ -76,11 +76,6 @@ To run the project locally, follow these steps:
 ![dialogflow](https://github.com/user-attachments/assets/33a157ed-e975-4447-ba8d-022cae1f4710)
 
 
-## Contributing
-
-If you'd like to contribute to the project, feel free to fork the repository and submit a pull request.
-
-
 **Author:** Marisetty Hanumantha Rao
 For any questions or suggestions, please contact: [hanuma5310@gmail.com](mailto:hanuma5310@gmail.com)
 
