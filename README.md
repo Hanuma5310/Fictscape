@@ -1,7 +1,3 @@
-Thanks for the clarification! Here's a GitHub README formatted like your example, tailored for your **Fictscape – Character-Driven AI Chat Application** project:
-
----
-
 # Fictscape – Character-Driven AI Chat Application
 
 ## Overview
